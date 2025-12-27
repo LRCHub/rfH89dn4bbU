@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "あの夏が飽和する。",
+  "base_artist": "カンザキイオリ",
+  "createdAt": "2025-12-27T16:15:39.009667Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あの夏が飽和する",
+      "artist": "カンザキイオリ",
+      "has_synced": true,
+      "path": "select/01_あの夏が飽和する_カンザキイオリ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あの夏が飽和する",
+      "artist": "カンザキイオリ",
+      "has_synced": true,
+      "path": "select/02_あの夏が飽和する_カンザキイオリ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あの夏が飽和する",
+      "artist": "Kanzaki Iori feat. 花譜",
+      "has_synced": true,
+      "path": "select/03_あの夏が飽和する_Kanzaki_Iori_feat._花譜.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あの夏が飽和する。",
+      "artist": "カンザキイオリ",
+      "has_synced": true,
+      "path": "select/04_あの夏が飽和する。_カンザキイオリ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あの夏が飽和する",
+      "artist": "Iori Kanzaki",
+      "has_synced": true,
+      "path": "select/05_あの夏が飽和する_Iori_Kanzaki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あの夏が飽和する",
+      "artist": "Iori Kanzaki",
+      "has_synced": true,
+      "path": "select/06_あの夏が飽和する_Iori_Kanzaki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あの夏が飽和する (feat. 花譜)",
+      "artist": "カンザキイオリ",
+      "has_synced": true,
+      "path": "select/07_あの夏が飽和する_(feat._花譜)_カンザキイオリ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの夏が飽和する。",
+      "artist": "カンザキイオリ",
+      "has_synced": false,
+      "path": "select/pl_01_あの夏が飽和する。_カンザキイオリ.txt"
+    }
+  ]
+}
